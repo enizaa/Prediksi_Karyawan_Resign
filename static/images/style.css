@@ -1,0 +1,16 @@
+h1 {
+    font-size: 35px;
+    margin-bottom: 10px;
+    color: #000000; /* warna font putih */
+    padding: 10px; /* jarak antara teks dengan background */
+    font-family: "Arial", Times, serif;
+    font-weight: bold;
+  }
+
+h5 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #645f5f; /* warna font putih */
+    font-family: Arial, sans-serif;
+  }
+
